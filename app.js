@@ -2,6 +2,10 @@
 
 // Addition of Two Numbers 4-8-2020
 
+function addition(a, b) {
+  return a + b;
+}
+
 // Subtraction of Two Numbers 4-8-2020
 
 // Division of Two Numbers 4-8-2020
