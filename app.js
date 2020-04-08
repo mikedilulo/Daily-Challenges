@@ -1,4 +1,4 @@
-//BELOW ARE MY EDABIT CHALLENGES. I ALSO HAVE A SEPARATE PROFILE CALLED iOS-mikedilulo, that is setup on my mac. There I am completing Swift Challenges
+// Below are Edabit Challenges. This section is the very easy section for Javascript
 
 // Addition of Two Numbers 4-8-2020
 
