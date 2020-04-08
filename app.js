@@ -8,6 +8,10 @@ function addition(a, b) {
 
 // Subtraction of Two Numbers 4-8-2020
 
+function subtraction(a, b) {
+  return a - b;
+}
+
 // Division of Two Numbers 4-8-2020
 
 // Multiplication of Two Numbers 4-8-2020
