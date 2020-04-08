@@ -14,4 +14,8 @@ function subtraction(a, b) {
 
 // Division of Two Numbers 4-8-2020
 
+function division(a, b) {
+  return a / b;
+}
+
 // Multiplication of Two Numbers 4-8-2020
