@@ -19,3 +19,7 @@ function division(a, b) {
 }
 
 // Multiplication of Two Numbers 4-8-2020
+
+function multiply(a, b) {
+  return a * b;
+}
